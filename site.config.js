@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'The course of the postgraduate entrance examination',
-  domain: 'https://www.notion.so/prlrr/The-course-of-the-postgraduate-entrance-examination-d753c7665e524f54a7beec1d2d8cdb97',
+  domain: 'https://prlrr.notion.site/The-course-of-the-postgraduate-entrance-examination-d753c7665e524f54a7beec1d2d8cdb97',
   author: 'Anderson Ryen',
 
   // open graph metadata (optional)
